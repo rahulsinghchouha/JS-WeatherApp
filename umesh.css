@@ -1,0 +1,25 @@
+.container
+{
+    display: flex;
+    border: 2px solid black;
+    height: auto;
+    width: auto;
+    align-items: flex-start;
+    flex-wrap: wrap;
+
+
+}
+.internalDiv1{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+.internalDiv2{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+.asidesection  {
+    
+}
